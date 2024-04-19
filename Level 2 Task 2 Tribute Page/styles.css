@@ -1,0 +1,49 @@
+/* Adding a personal touch to the background */
+body {
+    margin-top: 60px; /* Giving myself some headspace */
+    background-image: url("https://img.freepik.com/premium-vector/abstract-dusty-blush-liquid-watercolor-background-with-white-ginkgo-leaves_353323-352.jpg"); 
+    background-size:auto; /* Ensuring my background fits perfectly */
+    background-position: center; /* Keeping my background centered */
+  }
+  .jumbotron{
+    text-align: center;
+
+  }
+  /* Making headings more vibrant */
+  h1 {
+    font-family:'Times New Roman', Times, serif; /* My bold signature */
+    font-size: 50px; /* Making a statement */
+    text-decoration: underline; /* Adding a touch of flair */
+    text-decoration: italic; /* Emphasizing my uniqueness */
+    color: #FF5733; /* Adding a pop of color */
+  }
+  
+  h3 {
+    font-family:'Times New Roman', Times, serif; /* Reflecting my modern style */
+    font-size: 30px; /* Striking a balance between bold and subtle */
+    color: #2E86C1; /* Bringing in a calming blue */
+  }
+  
+  /* Adding a stylish border to elements */
+  .thick-border {
+    border-color: grey; /* Adding a touch of sophistication */
+    border-radius: 10px; /* Softening the edges, just like me */
+    border-width: 5px; /* Making a bold statement */
+  }
+  
+  /* Adding a subtle shadow effect to buttons */
+  .button {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Giving buttons a gentle lift */
+  }
+  
+  /* Adding a playful hover effect to buttons */
+  .button:hover {
+    transform: translateY(-3px); /* Adding a small bounce effect */
+    background-color: #F9E79F; /* Changing color on hover for a playful feel */
+  }
+  
+  /* Adding a smooth transition to all elements */
+  .transition {
+    transition: all 0.3s ease; /* Bringing everything to life with smooth transitions */
+  }
+  
