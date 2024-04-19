@@ -1,49 +1,49 @@
-/* Adding a personal touch to the background */
+
 body {
-    margin-top: 60px; /* Giving myself some headspace */
+    margin-top: 60px; 
     background-image: url("https://img.freepik.com/premium-vector/abstract-dusty-blush-liquid-watercolor-background-with-white-ginkgo-leaves_353323-352.jpg"); 
-    background-size:auto; /* Ensuring my background fits perfectly */
-    background-position: center; /* Keeping my background centered */
+    background-size:auto; 
+    background-position: center; 
   }
   .jumbotron{
     text-align: center;
 
   }
-  /* Making headings more vibrant */
+  
   h1 {
-    font-family:'Times New Roman', Times, serif; /* My bold signature */
-    font-size: 50px; /* Making a statement */
-    text-decoration: underline; /* Adding a touch of flair */
-    text-decoration: italic; /* Emphasizing my uniqueness */
-    color: #FF5733; /* Adding a pop of color */
+    font-family:'Times New Roman', Times, serif; 
+    font-size: 50px; 
+    text-decoration: underline; 
+    text-decoration: italic; 
+    color: #FF5733; 
   }
   
   h3 {
-    font-family:'Times New Roman', Times, serif; /* Reflecting my modern style */
-    font-size: 30px; /* Striking a balance between bold and subtle */
-    color: #2E86C1; /* Bringing in a calming blue */
+    font-family:'Times New Roman', Times, serif; 
+    font-size: 30px; 
+    color: #2E86C1; 
   }
   
-  /* Adding a stylish border to elements */
+
   .thick-border {
-    border-color: grey; /* Adding a touch of sophistication */
-    border-radius: 10px; /* Softening the edges, just like me */
-    border-width: 5px; /* Making a bold statement */
+    border-color: grey; 
+    border-radius: 10px; 
+    border-width: 5px; 
   }
   
-  /* Adding a subtle shadow effect to buttons */
+
   .button {
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Giving buttons a gentle lift */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
   }
   
-  /* Adding a playful hover effect to buttons */
+
   .button:hover {
-    transform: translateY(-3px); /* Adding a small bounce effect */
-    background-color: #F9E79F; /* Changing color on hover for a playful feel */
+    transform: translateY(-3px); 
+    background-color: #F9E79F; 
   }
   
-  /* Adding a smooth transition to all elements */
+  
   .transition {
-    transition: all 0.3s ease; /* Bringing everything to life with smooth transitions */
+    transition: all 0.3s ease; 
   }
   
